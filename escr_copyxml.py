@@ -1,3 +1,8 @@
+#
+#   This utility will read an XML file and write it without any modifications.
+#   The created file is epected to be different than the original file.
+#   This creted file can then be used for comparing with updated XML files
+#
 import sys
 import os
 from pathlib import Path
