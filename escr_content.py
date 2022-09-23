@@ -20,8 +20,11 @@ def single_page(fname):
         for tline in textblock.getElementsByTagName("String"):
             text = tline.attributes['CONTENT'].value
  
-            text = text.replace("ב\'", "ב\"")   
-            text = text.replace("ג\'", "ג\"")   
+            text = text.replace("ב\"", "ב\'")   
+            text = text.replace("ג\"", "ג\'")
+            text = text.replace("ז\"", "ז\'")
+            text = text.replace("ש\"", "ש\'")
+
             tline.attributes['CONTENT'].value = text
     # Write modified XML file
     outfile = updatedir + "/" + os.path.basename(fname)

@@ -17,7 +17,7 @@ if [ $retVal -ne 0 ]; then
     echo "Cannot unzip"
     exit $retVal
 fi
-python3 $HOME/ladino-transcript/scripts/escr_update.py \$HOME/escr/in \$HOME/escr/out
+python3 $HOME/ladino-transcript/scripts/escr_segment.py \$HOME/escr/in \$HOME/escr/out
 
 rm /mnt/c/Temp/escr.zip
 cd $HOME/escr/out

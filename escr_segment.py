@@ -40,16 +40,13 @@ def single_page(fname):
             tb_width = 0
             tb_height = 0
 
-        print ("TextBlock", tb_width, tb_height)
         if tb_width < 1500:
-            print("Deleting a textblock", cnt)
             parent = textblock.parentNode
             parent.removeChild(textblock)
             continue
 
         # Calculations calculate the vertical boundaries of the column
         for tline in textblock.getElementsByTagName("TextLine"):
-            print()
             cnt = cnt + 1 
             bline =  tline.attributes['BASELINE'].value
             spx = bline.split(" ")
@@ -93,16 +90,16 @@ def single_page(fname):
     ra, rb = np.polyfit(xnp, ynp, 1)
     plt.scatter(ynp, xnp)
     plt.plot(ra*xnp+rb, xnp)
-    plt.show()
+#    plt.show()
 
-
+    delta=-35
     cnt = 0
     for textblock in alto.getElementsByTagName("TextBlock"):
         for tline in textblock.getElementsByTagName("TextLine"):
             cnt = cnt + 1 
             bline =  tline.attributes['BASELINE'].value
-            print("line", cnt)
-            print ("old", bline)
+            # print("line", cnt)
+            # print ("old", bline)
             spx = bline.split(" ")
             lpx = []
             lpy = []
@@ -118,16 +115,15 @@ def single_page(fname):
                     if y2<la*x2+lb:
                         # Second point is also at the left side
                         # Discard this line
-                        print("L L")
+                        # print("L L")
                         needNextPoint = False
                         continue
                     elif y2 > ra*x2+rb:
                         # Second point is is the right side
                         # Calculate intersection point for the first point
-                        print("L R")
+                        # print("L R")
                         x , y = intersect(la, lb, x1, y1, x2, y2)
-                        print (y, y1)
-                        if abs(y-y1) < 20 and y1 < y:
+                        if abs(y-y1)<20 and y1<y:
                             lpx.append(int(x1))
                             lpy.append(int(y1))
                         else:   
@@ -135,9 +131,9 @@ def single_page(fname):
                             lpy.append(int(y))
                         # Calculate intersection point for the second point
                         x , y = intersect(ra, rb, x1, y1, x2, y2)
-                        if abs(y-y2) < 20 and y2> y:
-                            lpx.append(int(x1))
-                            lpy.append(int(y1))
+                        if abs(y-y2)<20 and y2>y:
+                            lpx.append(int(x2))
+                            lpy.append(int(y2))
                         else:
                             lpx.append(int(x))
                             lpy.append(int(y))
@@ -146,9 +142,9 @@ def single_page(fname):
                     else: 
                         # Second point is inside 
                         # Calculate intersection point for the first point
-                        print("L I")
+                        # print("L I")
                         x , y = intersect(la, lb, x1, y1, x2, y2)
-                        if abs(y-y1) < 20 and y1< y:
+                        if abs(y-y1)<20 and y1<y:
                             lpx.append(int(x1))
                             lpy.append(int(y1))
                         else:
@@ -163,11 +159,11 @@ def single_page(fname):
                     if y2 > ra*x2+rb:
                         # Second point is at the right side
                         # Calculate intersection point for the second point
-                        print("I R")
+                        # print("I R")
                         x , y = intersect(ra, rb, x1, y1, x2, y2)
-                        if abs(y-y2) < 20 and y2> y:
-                            lpx.append(int(x1))
-                            lpy.append(int(y1))
+                        if abs(y-y2)<20 and y2>y:
+                            lpx.append(int(x2))
+                            lpy.append(int(y2))
                         else:
                             lpx.append(int(x))
                             lpy.append(int(y))
@@ -175,7 +171,7 @@ def single_page(fname):
                         break
                     else:
                         # Second point is inside
-                        print("I I")
+                        # print("I I")
                         needNextPoint = True
                         continue
                 else:
@@ -191,7 +187,6 @@ def single_page(fname):
 
             if len(lpx) == 0:
                 # Remove this textline
-                print("Removing line", cnt)
                 parent = tline.parentNode
                 parent.removeChild(tline)
                 continue
@@ -199,12 +194,13 @@ def single_page(fname):
             #     Make sure that there are no extra spaces !!!
             newval = ""
             for i in range(len(lpx)):
-                newval = newval + str(lpy[i]) + ' ' + str(lpx[i]) + ' '
-            print("new", f"@{newval[:-1]}@")  
+                newval = newval + str(lpy[i]) + ' ' + str(lpx[i]+delta) + ' '
+            # print("new", f"@{newval[:-1]}@")  
             tline.attributes['BASELINE'].value = newval[:-1]
 
     # Write modified XML file
-    with open(os.path.basename(fname), "w") as fsxml:
+    outfile = updatedir + "/" + os.path.basename(fname)
+    with open(outfile, "w") as fsxml:
         fsxml.write(xmldoc.toxml())
         fsxml.close()
 
@@ -218,15 +214,15 @@ def single_page(fname):
 
 if len(sys.argv) != 3:
     print("Usage:")
-    print(f"    python3 {sys.argv[0]} <altodir> <outfile>")
+    print(f"    python3 {sys.argv[0]} <altodir> <updatedir>")
     exit()
 
-altodir = sys.argv[1]+"/*.xml"
-outputfile = Path(sys.argv[2])
+altofiles = os.path.expandvars(sys.argv[1]) + "/*.xml"
+updatedir = os.path.expandvars(sys.argv[2])
 
-flist= glob.glob(altodir)
+flist= glob.glob(altofiles)
 flist.sort()
-fout = open(outputfile, "w")
+
 for fname in flist:
     single_page(fname)
-fout.close() 
+

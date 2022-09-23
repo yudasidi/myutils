@@ -21,22 +21,22 @@ def single_page(fname):
     xmldoc = minidom.parse(fname)
       
     # Write modified XML file
-    with open(os.path.basename(fname), "w") as fsxml:
+    outfile = updatedir + "/" + os.path.basename(fname)
+    with open(outfile, "w") as fsxml:
         fsxml.write(xmldoc.toxml())
         fsxml.close()
 
 
 if len(sys.argv) != 3:
     print("Usage:")
-    print(f"    python3 {sys.argv[0]} <altodir> <outfile>")
+    print(f"    python3 {sys.argv[0]} <altodir> <updatedir>")
     exit()
 
-altodir = sys.argv[1]+"/*.xml"
-outputfile = Path(sys.argv[2])
+altofiles = os.path.expandvars(sys.argv[1]) + "/*.xml"
+updatedir = os.path.expandvars(sys.argv[2])
 
-flist= glob.glob(altodir)
+flist= glob.glob(altofiles)
 flist.sort()
-fout = open(outputfile, "w")
+
 for fname in flist:
     single_page(fname)
-fout.close() 
