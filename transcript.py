@@ -109,8 +109,7 @@ with open(inputfile, 'r', encoding='utf-8-sig') as fin:
         leftover = ""
         linelist = []
         for word in line.split():  # Read word by word in each line
-            try:
-       
+            try:     
                 # If word starts with quotation mark remove it
                 if word[0:1] == "\"":
                     word = word[1:]

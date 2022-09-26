@@ -176,7 +176,7 @@ def single_page(fname):
                         continue
                 else:
                     # First point is at the right side
-                    print("R R")
+                    # print("R R")
                     needNextPoint = False
                     break
             if needNextPoint:
