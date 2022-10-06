@@ -2,7 +2,7 @@ import sys
 from pathlib import Path
 import re
 
-comment_markers = "*"
+comment_markers = "*^"
 punct =  "-.,:;?\")" 
 chars1 = "\"אבגדהוזחטיכלמנסעפצקרשת"
 chars2 = "ךםןףץ'"
@@ -42,15 +42,18 @@ class dict:
 
 ##EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
 
-
+SHIN = False
 
 def handle_word(pm, word):
     word_d = word.replace("ש\'", "X")
-    if "ס" in word_d and "ש" in word_d:
-        fout.write("@")   
-    word_d = word_d.replace("ש", "ס")
-    word_d = word_d.replace("X", "ש")
- 
+    if SHIN:
+        if "ס" in word_d and "ש" in word_d:
+            fout.write("@")   
+        word_d = word_d.replace("ש", "ס")
+        word_d = word_d.replace("X", "ש")
+    else:
+        word_d = word
+
     res = lad_dict.look(word_d)    # A ladino word 
     res_h = lad_dict.look(word)     # Unchanged word probably a hebrew word where ש should not be replaced by ס
  

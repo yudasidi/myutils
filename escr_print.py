@@ -6,26 +6,30 @@ import re
 import math
 import statistics
 from xml.dom import minidom
+column="RLABCDEFGHIJKLM"
+def single_column(textblock, pageNum, col):
+    if not PARAM_LINE_NUMBERS:
+        fout.write(f'[{pageNum:03d}{col}]\n')
+    line = 0
+    for tline in textblock.getElementsByTagName("String"):
+        line = line +1
+        text = tline.attributes['CONTENT'].value
+        if PARAM_LINE_NUMBERS:
+            fout.write(f"{pageNum:03d}{col}:{line:03d}: {text}\n")
+        else:
+            fout.write(f"{text}\n")
 
 def single_page(fname):
     # Get the page number
     pageNum = int(re.findall('\_(.*).xml', fname)[-1])
-    if not PARAM_LINE_NUMBERS:
-        fout.write(f'[{pageNum:03d}]\n')
 
     xmldoc = minidom.parse(fname)
     alto = xmldoc.getElementsByTagName("alto")[0]
 
-    line=0
+    i=0  
     for textblock in alto.getElementsByTagName("TextBlock"):
-        # Calculations calculate the vertical boundaries of the column
-        for tline in textblock.getElementsByTagName("String"):
-            line = line +1
-            text = tline.attributes['CONTENT'].value
-            if PARAM_LINE_NUMBERS:
-                fout.write(f"{pageNum:03d}:{line:03d}: {text}\n")
-            else:
-                fout.write(f"{text}\n")
+        single_column(textblock, pageNum, column[i])
+        i = i+1
 
 
 if len(sys.argv) != 3 and len(sys.argv) != 4:
