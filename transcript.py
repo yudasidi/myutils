@@ -107,6 +107,7 @@ with open(inputfile, 'r', encoding='utf-8-sig') as fin:
         if line[0:1] == "[":
             fout.write(line)
             fout.write("\n")
+            fdict.write(line + "\n")
             continue       
         line = leftover + line
         leftover = ""

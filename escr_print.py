@@ -29,7 +29,8 @@ def single_page(fname):
     i=0  
     for textblock in alto.getElementsByTagName("TextBlock"):
         single_column(textblock, pageNum, column[i])
-        i = i+1
+        if (i < 10):
+            i = i+1
 
 
 if len(sys.argv) != 3 and len(sys.argv) != 4:

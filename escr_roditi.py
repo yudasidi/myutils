@@ -74,7 +74,7 @@ def single_column(textblock):
     rb = rb+15
     plt.scatter(ynp, xnp)
     plt.plot(ra*xnp+rb, xnp)
-    plt.show()
+#    plt.show()
 
     delta=0
     cnt = 0
