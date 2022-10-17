@@ -8,7 +8,7 @@
 אאולב'ידארמוס,a_olvidarmos,L
 אאולב'ידארסי,a_olvidarse,L
 אאולייר,a_oyir,L
-אאון,aun,L
+אאון,a_un,L
 אאונה,a_una,L
 אאונו,a_uno,L
 אאזיר,a_azer,L
@@ -25,7 +25,7 @@
 אאינדה,ainda,L
 אאינטינדיר,a_entender,L
 אאינטינדירלו,a_entenderlo,L
-אאינטיראר,a_entrar,L
+אאינטיראר,a_enterrar,L
 אאינטראר,a_entrar,L
 אאינטרימיטירטי,a_entremeterse,L
 אאינמינטאר,a_enmentar,L
@@ -46,7 +46,7 @@
 אאלישארסי,a_alesharse,L
 אאסינטארסי,a_asentarse,
 אאפ'ירמאר,a_afirmar,L
-אאפ'ירמארלאס,afrimarlas,L
+אאפ'ירמארלאס,afirmarlas,L
 אאפידריארמוס,a_pedrearmos,L
 אאקוז'יר,a_akojer,L
 אאקיאה,a_akea,L
@@ -77,6 +77,7 @@
 אב'ינטארלו,aventarlo,L
 אב'ינטוראדה,aventurada,
 אב'ינטוראדו,aventurado,L
+אב'ינטוראדוס,aventurados,L
 אב'יס,aves,L
 אב'יר,a_ver,L
 אב'ירגואינסאב'אן,averguensavan,L
@@ -102,6 +103,7 @@
 אב'לאראש,avlarash,L
 אב'לארון,avlaron,L
 אב'לארי,avlare,L
+אב'לארימוס,avleremos,L
 אב'לארלי,avlarle,L
 אב'לה,avla,L
 אב'לו,avlo,L
@@ -141,8 +143,11 @@
 אבוקי,aboke,L
 אבוריסי,aborrese,L
 אבוריסידה,aborresida,L
+אבוריסידו,aborresido,L
 אבוריסייו,aborresyo,L
 אבוריסייון,aborresyon,L
+אבוריסין,aborresen,L
+אבוריסקאן,aborreskan,L
 אבושקאר,a_bushkar,L
 אבושקארב'וס,a_bushkarvos,L
 אביב'יר,a_bever,L
@@ -166,8 +171,10 @@
 אג'וגאר,a_djugar,L
 אג'וזגאר,a_djuzgar,L
 אג'וזגארלו,a_djuzgarlo,L
+אג'וזגארמוס,a_djuzgarmos,L
 אג'וזגארסי,a_djuzgarse,L
 אג'ונטאדו,adjuntado,L
+אג'ונטאמיינטו,adjuntamyento,L
 אג'ונטאסטיש,adjuntastesh,L
 אג'ונטארה,adjuntara,L
 אג'ונטארון,adjuntaron,L
@@ -186,6 +193,7 @@
 אגו,ago,L
 אגואדראר,a_guadrar,L
 אגואה,agua,L
+אגואיסטראס,a_guestras,L
 אגואיסטרוס,a_guestros,L
 אגואס,aguas,L
 אגודה,aguda,L
@@ -218,7 +226,7 @@
 אדורמיר,a_durmir,L
 אדיגולייארלו,a_degoyarlo,L
 אדיזיר,a_dizir,L
-אדיזירלי,adizirle,L
+אדיזירלי,a_dizirle,L
 אדיזירליס,a_dizirles,L
 אדיזירסילו,a_dizirselo,L
 אדיטה,a_dita,L
@@ -227,6 +235,7 @@
 אדילאנטרי,adelantre,L
 אדימאנדאר,a_demandar,L
 אדימיניסטיר,ademenester,L
+אדין,a_$din$,L
 אדיספארטיר,a_despartir,L
 אדיספירטאר,a_despertar,L
 אדיקלארארליס,a_deklararles,L
@@ -251,6 +260,7 @@
 אוב'ו,uvo,L
 אוב'יג'אס,oveJas,L
 אוב'יז'אס,ovejas,L
+אוב'יירה,uvyera,L
 אוב'יירון,uvyeron,L
 אוב'ליגאדה,ovligada,L
 אוב'ליגאדו,ovligado,L
@@ -259,6 +269,7 @@
 אוב'ליגארה,ovligara,L
 אוב'ליגארון,ovligaron,L
 אוב'ליגאש,ovligash,L
+אוב'ליגה,ovliga,L
 אוב'ליגו,ovligo,L
 אוב'ליגי,ovlige,L
 אוב'ליגיס,ovliges,L
@@ -278,6 +289,7 @@
 אוזאנסה,uzansa,L
 אוזה,uza,L
 אוזור,uzur,T
+אוזיש,uzesh,L
 אוטראס,otras,L
 אוטרה,otra,L
 אוטרו,otro,L
@@ -316,12 +328,14 @@
 אולייאן,oyian,L
 אולייאס,oyas,L
 אולייאש,oyiash,L
+אוליידאס,oyidas,L
 אוליידוס,oyidos,L
 אולייו,oyo,L
 אוליימוס,oyimos,L
 אוליין,oyen,L
 אוליינדו,oyendo,L
 אוליינדולאס,oyendolas,L
+אולייסטיש,oyistesh,L
 אולייר,oyir,L
 אולייראס,oyeras,L
 אוליירון,oyeron,L
@@ -333,6 +347,7 @@
 אומה,uma,H
 אומות,umot,H
 אומילדי,umilde,L
+אומילדיס,umildes,L
 און,un,L
 אונאס,unas,L
 אונדי,onde,L
@@ -351,6 +366,7 @@
 אונס,ones,H
 אונראדאס,onradas,L
 אונראדו,onrado,L
+אונראדוס,onrados,L
 אונראן,onran,L
 אונראר,onrar,L
 אונרה,onra,L
@@ -394,6 +410,7 @@
 אזירמי,azerme,L
 אזירסי,azerse,L
 אזיש,azesh,L
+אזלו,azlo,L
 אזליס,azles,L
 אזמי,azme,L
 אזנו,azno,L
@@ -408,7 +425,7 @@
 אטאקסו,atakso,L
 אטאר,atar,L
 אטה,ata,L
-אטו,ato,L
+אטו,a_tu,L
 אטואינדוס,atuendos,L
 אטודאס,a_todas,L
 אטודה,a_toda,L
@@ -512,6 +529,7 @@
 איליס,i_les,L
 אין,en,L
 אינאיל,en_el,L
+אינאל,en_el,L
 אינאלטו,enalto,L
 אינאלטיסי,enaltese,L
 אינאלטיסידוס,enaltesidos,L
@@ -565,7 +583,7 @@
 אינבלאנקיסין,enblankesen,L
 אינבלאנקיסירלה,enblankeserla,L
 אינג'ו,incho,L
-אינג'ורייא,indjuryas,L
+אינג'ורייא,indjurya,L
 אינג'י,inche,L
 אינג'יאה,inchio,L
 אינג'יליקאדה,endjelikada,L
@@ -636,9 +654,13 @@
 אינטרארסין,entrarsen,L
 אינטרה,entra,L
 אינטרו,entro,L
+אינטרומפיסאנדו,entrompesando,L
+אינטרומפיסה,entrompesa,L
 אינטרומפיסי,entrompese,L
 אינטרונפיסימוס,entronpesemos,L
 אינטרופיסאנדו,entropesando,L
+אינטרופיסאסטיש,entropesastesh,L
+אינטרופיסאש,entropesash,L
 אינטרי,entre,L
 אינטריגאב'ה,entregava,L
 אינטריגאטי,entregate,L
@@ -711,12 +733,15 @@
 אינפיסו,enpeso,L
 אינפיסי,enpese,L
 אינפירו,enpero,L
+אינפיריזארה,enperezara,L
 אינפיריזו,enperezo,
 אינפיריזי,enpereze,L
+אינפיריזיס,enperezes,L
 אינפלאסטוס,enplastos,L
 אינפליארלה,enplearla,L
 אינפרוב'יסיירון,enprovesyeron,L
 "אינפרוב""יסיירון",enprovesyeron,L
+אינפריזארה,enprezara,L
 אינפריזינטאב'ה,enprezentava,L
 אינפריזינטאר,enprezentar,L
 אינפריזינטארה,enprezentara,L
@@ -727,12 +752,17 @@
 אינפרימירו,enprimero,L
 אינפריסטארלוס,enprestarlos,L
 אינקאנייא,enkanya,L
+אינקאנייאדאס,enkanyadas,L
+אינקאנייאדוס,enkanyados,L
 אינקאנייאר,enkanyar,L
+אינקאנייארון,enkanyaron,L
 אינקאסטיאדוס,enkastiados,L
 אינקאסטילייאדאס,enkastiyadas,L
 אינקאסטילייאדוראס,enkastiyaduras,L
 אינקאשו,enkasho,L
+אינקואינטו,enkuento,L
 אינקוב'יירטו,enkuvyerto,L
+אינקוב'רידו,enkuvrido,L
 אינקוב'רייו,enkuvriyo,L
 אינקולגאדאס,enkolgadas,L
 אינקומינדאב'ה,enkomendava,L
@@ -848,7 +878,9 @@
 איספאנטה,espanta,L
 איספאנטו,espanto,L
 איספאנטי,espante,L
+איספאנטין,espanten,L
 איספאנטיס,espantes,L
+איספאנטיש,espantesh,L
 איספאסייוזו,espasyozo,
 איספארזי,esparze,L
 איספארטי,esparte,L
@@ -881,11 +913,13 @@
 איסקאפי,eskape,L
 איסקאפימוס,eskapemos,L
 איסקואינטרה,eskuentra,L
+איסקוג'אר,eskuchar,L
 איסקוג'יר,eskoJer,L
 איסקוג'ירה,eskoJera,L
 איסקודו,eskudo,L
 איסקוז'י,eskoje,L
-איסקוז'ינדו,ekojendo,L
+איסקוז'ינדו,eskojendo,L
+איסקוז'יסטיש,eskojistesh,L
 איסקוז'יר,eskojer,L
 איסקוז'יראן,eskojeran,L
 איסקוז'ירה,eskojera,L
@@ -918,12 +952,13 @@
 איסקריב'ייראן,eskrivyeran,L
 איסקריב'יירה,eskrivyera,L
 איסקריב'יר,eskrivir,L
-איסקריב'ירימוס,eskrivirmos,L
+איסקריב'ירימוס,eskriviremos,L
 איסקריב'ירלה,eskrivirla,L
 איסקריב'ירלו,eskrivirlo,L
 איסקריב'ירליס,eskrivirles,L
 איסקריטו,eskrito,L
 איסקריטוס,eskritos,L
+איקי,i_ke,L
 איקסיידרה,eksyedra,L
 איר,ir,L
 איראן,eran,L
@@ -951,6 +986,7 @@
 איריש,iresh,L
 אירמאנה,ermana,L
 אירמאנו,ermano,L
+אירמאנוס,ermanos,L
 אירמוזאס,ermozas,L
 אירמוזה,ermoza,L
 אירמוזו,ermozo,L
@@ -973,6 +1009,7 @@
 אלאס,a_las,L
 אלאקראניס,alakranes,L
 אלארגאר,alargar,L
+אלארגאראן,alargaran,L
 אלארגארה,alargara,L
 אלארגאריש,alargaresh,L
 אלארגארסי,alargarse,L
@@ -1023,6 +1060,7 @@
 אליהו,Eliyau,H
 אליי,ayi,L
 אלייאסטיס,ayastes,L
+אלייגאב'אן,ayegavan,L
 אלייגאב'ה,ayegava,L
 אלייגאדו,ayegado,L
 אלייגאן,ayegan,L
@@ -1046,6 +1084,7 @@
 אלימאנייאס,alimanyas,L
 אלימונייא,alimunya,L
 אלימפיי,alimpye,L
+אלימפייא,alimpya,L
 אלימפייאן,alimpyan,L
 אלינפ'ורטיסיין,alenfortesyen,L
 אליעזר,Eliezer,H
@@ -1053,11 +1092,14 @@
 אלישאב'אן,aleshavan,L
 אלישאב'אס,aleshavas,L
 אלישאב'אש,aleshavash,L
+אלישאן,aleshan,L
 אלישאסטיש,aleshastesh,L
 אלישאר,aleshar,L
 אלישאראן,alesharan,L
 אלישאראש,alesharash,L
+אלישארב'וס,alesharvos,L
 אלישארלו,alesharlo,L
+אלישארלוס,alesharlos,L
 אלישארסי,alesharse,L
 אלישה,alesha,L
 אלישי,aleshe,L
@@ -1078,6 +1120,7 @@
 אלקאנסה,alkansa,L
 אלקאנסו,alkanso,L
 אלקאנסימוס,alkansimos,L
+אלקים,elokim,H
 אמא,ama,L
 אמאחו,amaho,L
 אמאטאר,a_matar,L
@@ -1117,11 +1160,14 @@
 אמיטיר,a_meter,L
 אמיטירלוס,a_meterlos,L
 אמילדאר,a_meldar,L
+אמין,amen,L
+אמינאזה,amenaza,L
 אמיס,a_mis,L
 אמיסטאד,amistad,L
 אמיסטאר,amistad,L
 אמיראר,a_mirar,L
 אמרפל,Amrafel,H
+אמת,emet,H
 אנאדאר,a_nadar,L
 אנאשאב'ה,abashava,L
 אנביזאדאס,anbezadas,L
@@ -1139,6 +1185,7 @@
 אנביזארסילה,anbezarsela,L
 אנביזה,anbeza,L
 אנביזי,anbeze,L
+אנביזין,anbezen,L
 אנביזיש,anbezesh,L
 אנג'אס,anchas,L
 אנגוסטייא,angustya,L
@@ -1147,9 +1194,11 @@
 אנדה,anda,L
 אנדי,ande,L
 אנו,a_no,L
+אנואיסטרוס,a_nuestros,L
 אנוג'אנדו,anoJando,L
 אנוג'אר,anoJar,L
 אנוג'ארלוס,anoJarlos,L
+אנוג'ארלו,anoJarlo,L
 אנוג'י,anoche,L
 אנוז'אנדו,anojando,L
 אנוז'אר,anojar,L
@@ -1159,9 +1208,11 @@
 אנייו,anyo,L
 אנייוס,anyos,L
 אנימו,animo,L
+אנינגונו,a_ninguno,L
 אנינקורב'אב'אן,enkorvavan,L
 אנכיזה,anbeza,L
 אנסי,ansi,L
+אנשי,anshe,H
 אס,as,L
 אס',as',L
 אסאב'ינטאר,asaventar,L
@@ -1169,8 +1220,10 @@
 אסאלטאר,a_saltar,L
 אסאליר,a_salir,L
 אסו,a_su,L
+אסוג'יגואר,a_sojiguar,L
 אסוס,a_sus,L
 אסופ'ריטי,asofrete,L
+אסופ'רימוס,asofrimos,L
 אסופ'ריר,asofrir,L
 אסור,asur,H
 אסטה,asta,L
@@ -1204,7 +1257,7 @@
 אסינטאב'ה,asentava,L
 אסינטאדו,asentado,L
 אסינטאדוס,asentados,L
-אסינטאן,asentar,L
+אסינטאן,asentan,L
 אסינטאר,asentar,L
 אסינטארון,asentaron,L
 אסינטארמי,asentarme,L
@@ -1229,6 +1282,7 @@
 אפ'אלאגין,afalagen,L
 אפ'ואירה,afuera,L
 אפ'ואירטי,afuerte,L
+אפ'ורמוזיגואה,aformozigua,L
 אפ'ורמוזיגואר,aformoziguar,L
 אפ'ורמוזיגוארב'וס,aformoziguarvos,L
 אפ'ורמוזיגוארלה,aformoziguarla,L
@@ -1326,6 +1380,7 @@
 אפידריארמי,apedrearme,L
 אפיזגה,apezga,L
 אפיטיטאב'ה,apetitava,L
+אפיטיטי,apetite,L
 אפיטיטיס,apetites,L
 אפיטיטיקוס,apetitikos,L
 אפייטארון,afeytaron,L
@@ -1333,18 +1388,23 @@
 אפיליאר,a_pelear,L
 אפינאדה,apenada,L
 אפינאן,apenan,L
+אפינאס,apenas,L
 אפינארה,apenara,L
 אפינארון,apenaron,L
+אפינארסין,apenarsen,L
+אפינאש,apenash,L
 אפינה,apena,L
 אפינו,apeno,L
 אפיני,apene,L
+אפינימוס,apenemos,L
+אפינין,apenan,L
 אפיניס,apenes,L
 אפינסאר,a_pensar,L
 אפיקאר,a_pekar,L
 אפלושארון,aflosharon,L
 אפליקו,apliko,L
 אפרוב'יג'אר,aprovechar,L
-אפרוב'יג'ארון,apregonaron,L
+אפרוב'יג'ארון,aprovecharon,L
 אפרוב'יג'ארלו,aprovecharlo,L
 אפרוב'יג'ארסי,aprovecharse,L
 אפרוב'יג'ארסין,aprovecharsen,L
@@ -1373,13 +1433,14 @@
 אקאב'ארון,akavaron,L
 אקאב'ה,akava,L
 אקאב'ו,akavo,L
-אקאב'ידאב'ה,akavidado,L
+אקאב'ידאב'ה,akavidava,L
 אקאב'ידאדו,akavidado,L
 אקאב'ידאמיינטו,akavidamyento,L
 אקאב'ידאמיינטוס,akavidamyentos,L
 אקאב'ידאן,akavidan,L
 אקאב'ידאנדו,akavidando,L
 אקאב'ידאר,akavidar,L
+אקאב'ידארב'וס,akavidarvos,L
 אקאב'ידארה,akavidara,L
 אקאב'ידארון,akavidaron,L
 אקאב'ידארי,akavidare,L
@@ -1441,14 +1502,18 @@
 אקונסיז'יש,akonsejesh,L
 אקונפאנייאן,akonpanyan,L
 אקונפאנייארמי,akonpanyarme,L
+אקוסטאן,akostan,L
 אקוסטאר,akostar,L
 אקוסטה,akosta,L
+אקוסטי,akoste,L
+אקוסטין,akosten,L
 אקורוטו,akorruto,L
 אקורטאב'ה,akurtava,L
+אקורידו,akorrido,L
 אקורידוס,akorridos,L
 אקורניאן,akornean,L
 אקורניאר,akornear,L
-אקי,aki,L
+אקי,a_ke,L
 אקיאה,akea,L
 אקיאו,akeo,L
 אקיאוס,akeos,L
@@ -1477,6 +1542,7 @@
 אראב'ייארסי,arravyarse,L
 אראב'ייו,arravyo,L
 אראב'ייס,arravyes,L
+אראזגארון,arrazgaron,L
 אראזונארסי,a_razonarse,L
 אראיגאדו,arraigado,L
 אראיגאסטיש,arraigastesh,L
@@ -1490,11 +1556,12 @@
 אראר,arar,L
 ארב'ול,arvol,L
 ארב'וליס,arvoles,L
-ארגאטיס,argates,L
+ארגאטיס,argates,T
 ארה,ara,L
 ארוגאנדו,arrogando,L
 ארוגאר,a_rogar,L
 ארוגארלי,a_rogarle,L
+ארוגארמי,arrogarme,L
 ארודיאב'ה,arrodeava,
 ארודיאה,arrodea,L
 ארודיאו,arrodeo,L
@@ -1503,6 +1570,7 @@
 ארודיארון,arrodearon,L
 ארון,Aron,H
 ארטה,arta,L
+ארטוס,artos,L
 ארטורה,artura,L
 ארי,are,L
 אריב'ה,arriva,L
@@ -1518,10 +1586,12 @@
 ארימאטאמי,arrematame,L
 ארימאטארלו,arrematarlo,L
 ארימידיי,arremedye,L
+ארימידייארלו,arremedyarlo,L
 ארינה,arena,L
 אריסיב'יר,a_resivir,L
 אריסיב'ירלו,a_resivirlo,L
 אריספונדיר,a_responder,L
+אריפיינטאס,arrepyentas,L
 אריפיינטי,arrepyente,L
 אריפינטייו,arrepintyo,L
 אריפינטיירון,arrepintyeron,L
@@ -1552,6 +1622,7 @@
 ב'אנטאז'י,vantaje,L
 ב'אס,vas,L
 ב'אראס,varas,L
+ב'ארה,vara,L
 ב'ארוניס,varones,L
 ב'אש,vash,L
 ב'ה,va,L
@@ -1608,6 +1679,7 @@
 ב'ירי,vere,L
 ב'יריש,veresh,L
 ב'ירנאן,vernan,L
+ב'ירנאס,vernas,L
 ב'ירנה,verna,L
 ב'יש,vesh,L
 בא,Bo,H
@@ -1628,6 +1700,7 @@
 באנייו,banyo,L
 באסטאב'ה,bastava,L
 באסטאנטי,bastante,L
+באסטה,basta,L
 באסטו,basto,L
 באראגאן,barragan,L
 באראגאניאה,barragania,L
@@ -1635,6 +1708,7 @@
 באראז'אס,barrajas,L
 בארו,barro,L
 באשאס,bashas,L
+באשה,basha,L
 באשו,basho,L
 באשורה,bashura,L
 בבל,Bavel,H
@@ -1670,11 +1744,14 @@
 בושקאמי,bushkame,L
 בושקאס,bushkas,L
 בושקאר,bushkar,L
+בושקאראן,bushkaran,L
 בושקארה,bushkara,L
 בושקארי,bushkare,L
 בושקה,bushka,L
 בושקו,bushko,L
 בושקי,bushke,L
+בושקימוס,bushkemos,L
+בושקיס,bushkes,L
 בטאלייא,batalya,L
 בטאלייאס,batalyas,L
 ביב'אמוס,bivamos,L
@@ -1748,6 +1825,7 @@
 בפנים,bafanim,H
 בפרהסיא,befaresya,H
 בפרט,bifrat,H
+בצע,betsa,H
 בר,bar,H
 בראזאס,brazas,L
 בראזה,braza,L
@@ -1765,7 +1843,7 @@
 ברמז,beremez,H
 בשורה,besora,H
 בשורות,besorot,H
-בשלח,Beshalah,L
+בשלח,Beshalah,H
 בשן,Bashan,H
 בשר,basar,H
 בתוך,betoh,H
@@ -1778,9 +1856,11 @@
 ג'ודייוס,djudyos,L
 ג'וזגאב'ה,djuzgava,L
 ג'וזגאדור,djuzgador,L
+ג'וזגאדוריס,djuzgadores,L
 ג'וזגאן,djuzgan,L
 ג'וזגאנדו,djuzgando,L
 ג'וזגאר,djuzgar,L
+ג'וזגאראן,djuzgaran,L
 ג'וזגארב'וס,djuzgarvos,L
 ג'וזגארלה,djuzgarla,L
 ג'וזגארלו,djuzgarlo,L
@@ -1788,6 +1868,7 @@
 ג'וזגארליס,djuzgarles,L
 ג'וזגארמי,djuzgarme,L
 ג'וזגארסי,djuzgarse,L
+ג'וזגארסין,djuzgarsen,L
 ג'וזגה,djuzga,L
 ג'וזגו,djuzgo,L
 ג'וזגוס,djuzgos,L
@@ -1828,11 +1909,12 @@
 גדולה,gedola,H
 גדולים,gedolim,H
 גדעון,Gidon,H
-גהינם,Geinam,L
+גהינם,Geinam,H
 גואדראדאס,guadradas,L
 גואדראדה,guadrada,L
 גואדראדו,guadrado,L
 גואדראטי,guadrate,L
+גואדראמוס,guadramos,L
 גואדראן,guadran,L
 גואדראנדו,guadrando,L
 גואדראר,guadrar,L
@@ -1875,10 +1957,10 @@
 גוסטאש,gustash,L
 גוסטה,gusta,L
 גוסטו,gusto,L
+גוסטין,gusten,L
 גוף,guf,H
 גזרה,gezera,H
 גזרות,gezerot,H
-גיהנם,Geinam,H
 גיזאן,gizan,L
 גיזי,gize,L
 גילגל,Gilgal,L
@@ -1898,6 +1980,7 @@
 גראנדי,grande,L
 גראנדיזאס,grandezas,L
 גראנדיזה,grandeza,L
+גראנדיזימו,grandizimo,L
 גראנדיס,grandes,L
 גראנדיסימו,grandisimo,L
 גראנדיסימוס,grandisimos,L
@@ -1917,16 +2000,17 @@
 דאדו,dado,L
 דאייאניאי,dayanee,T
 דאלדי,dalde,L
+דאמי,dame,L
 דאמילדוס,dameldos,L
 דאן,dan,L
 דאנדו,dando,L
 דאנדוטי,dandote,L
-דאנדוליס,danodles,L
+דאנדוליס,dandoles,L
 דאניי,danye,L
 דאנייא,danya,L
 דאנייאדור,danyador,L
 דאנייאן,danyan,L
-דאנייאנדו,danyador,L
+דאנייאנדו,danyando,L
 דאנייאר,danyar,L
 דאנייאראן,danyaran,L
 דאנייו,danyo,L
@@ -1938,7 +2022,9 @@
 דאר,dar,L
 דארב'וס,darvos,L
 דארי,dare,L
+דארימוס,daremos,L
 דארלה,darla,L
+דארלו,darlo,L
 דארלי,darle,L
 דארלים,darles,L
 דארליס,darles,L
@@ -2003,7 +2089,10 @@
 דיגאש,digash,L
 דיגה,diga,L
 דיגו,digo,L
+דיגוליי,degoye,L
 דיגולייא,degoya,L
+דיגולייאב'ה,degoyava,L
+דיגולייאר,degoyar,L
 דיגולייארה,degoyara,L
 דידו,dedo,L
 דיזאונראב'אס,dezonravas,L
@@ -2050,6 +2139,7 @@
 דיזירלי,dizirle,L
 דיזירליס,dizirles,L
 דיזירמוס,dizirmos,L
+דיזיש,dizish,L
 דיזליאירה,dezleera,L
 דיזמאייאדוס,dezmayados,L
 דיזנודאב'ה,deznudava,L
@@ -2063,7 +2153,7 @@
 דיטוב'ימוס,detuvimos,L
 דיטוס,ditos,L
 דיטינגאס,detengas,L
-דיטינטי,détente,L
+דיטינטי,detente,L
 דיטיניינדו,detenyendo,L
 דיטינימיינטו,detenimyento,L
 דיטיניר,detener,L
@@ -2072,10 +2162,12 @@
 דיטירמינאדו,determinado,L
 דיטירמינאר,determinar,L
 דיטירמינארה,determinara,L
+דיטירמינארון,determinaron,L
 דיטירמינו,determino,L
 דיטראס,detras,L
 דייו,Dyo,L
 דייז,dyez,L
+דיין,dayan,H
 דיינטיס,dyentes,L
 דיינטיסא,dyentes,L
 דיינים,dayanim,H
@@ -2112,6 +2204,7 @@
 דימאנדו,demando,L
 דימאנדימוס,demandemos,L
 דימאנייאנה,demanyana,L
+דימודו,demudo,L
 דימוס,dimos,L
 דימי,di_me,L
 דימיטיס,demetes,T
@@ -2176,6 +2269,7 @@
 דיפ'ינדי,defende,L
 דיפ'ינדיאן,defendian,L
 דיפ'ינדייו,defendyo,L
+דיפ'ינדין,defenden,L
 דיפ'ינדיר,defender,L
 דיפ'ירינסייא,diferensya,L
 דיפ'ירינסייאס,diferensyas,L
@@ -2187,6 +2281,7 @@
 דיפירדיירה,deperdyera,L
 דיפרינדאן,deprendan,L
 דיפרינדי,deprende,L
+דיפרינדידאס,deprendidas,L
 דיפרינדייו,deprendyo,L
 דיפרינדיינדו,deprendyendo,L
 דיפרינדייראש,deprendyerash,L
@@ -2196,6 +2291,7 @@
 דיקולגאדה,dekolgada,L
 דיקולגאדו,dekolgado,L
 דיקולגאדוס,dekolgados,L
+דיקולגאר,dekolgar,L
 דיקוראדאס,dekoradas,L
 דיקי,de_ke,L
 דיקלאראב'ה,deklarava,L
@@ -2226,7 +2322,9 @@
 דישאב'אש,deshavash,L
 דישאב'ה,deshava,L
 דישאדו,deshado,L
+דישאן,deshan,L
 דישאסטיס,deshastes,L
+דישאר,deshar,L
 דישאראס,desharas,L
 דישארון,desharon,L
 דישארי,deshare,L
@@ -2292,6 +2390,7 @@
 הפה,ape,H
 הפטרה,aftara,H
 הפלשתי,apelishti,H
+הפרצוף,partsuf,H
 הצדיק,aTsadik,H
 הצלחה,atslaha,H
 הקבר,akever,H
@@ -2337,6 +2436,7 @@
 וידה,vida,L
 וידו,vido,L
 וידוי,viduy,H
+וידועים,viduim,H
 וידי,vide,L
 וידראדיס,vedrades,L
 וידרה,vedra,L
@@ -2439,6 +2539,7 @@
 ושלום,veshalom,H
 זה,ze,H
 זוכה,zohe,H
+זוכים,zohim,H
 זומא,Zoma,H
 זונה,zona,H
 זונות,zonot,H
@@ -2481,9 +2582,11 @@
 חיות,hayot,H
 חייא,Hiya,H
 חייב,hayav,H
+חיל,hayil,H
 חכם,haham,H
 חכמה,hohma,H
 חכמים,hahamim,H
+חכמת,hohmat,H
 חלה,hala,H
 חלוקה,haluka,H
 חלק,helek,H
@@ -2502,6 +2605,7 @@
 טאב'לאס,tavlas,L
 טאב'לה,tavla,L
 טאג'ין,taJen,L
+טאדראר,tadrar,L
 טאדרו,tadro,L
 טאדרי,tadre,L
 טאז'ארלו,tajarlo,L
@@ -2524,6 +2628,7 @@
 טאקסה,taksa,L
 טבע,teva,H
 טו,tu,L
+טואירטה,tuerta,L
 טוב'ו,tuvo,L
 טוב'י,tuve,L
 טוב'ייראן,tuvyeran,L
@@ -2539,6 +2644,7 @@
 טודום,todos,L
 טודוס,todos,L
 טולייא,tuya,L
+טולייוס,tuyos,L
 טומאב'אן,tomavan,L
 טומאב'ה,tomava,L
 טומאדה,tomada,L
@@ -2554,6 +2660,7 @@
 טומארה,tomara,L
 טומארון,tomaron,L
 טומארי,tomare,L
+טומאריש,tomaresh,L
 טומארלה,tomarla,L
 טומארלו,tomarlo,L
 טומארלי,tomarle,L
@@ -2580,9 +2687,10 @@
 טופה,topa,L
 טופו,topo,L
 טופי,tope,L
-טופימוס,tupemos,L
+טופימוס,topemos,L
 טופיס,topes,L
 טוקאנטי,tokante,L
+טוקאר,tokar,L
 טוקארה,tokara,L
 טוקה,toka,L
 טוקי,toke,L
@@ -2592,7 +2700,7 @@
 טורנאר,tornar,L
 טורנאראן,tornaran,L
 טורנארה,tornara,L
-טורנארון,tronaron,L
+טורנארון,tornaron,L
 טורנארי,tornare,
 טורנאש,tornash,L
 טורנה,torna,L
@@ -2655,6 +2763,7 @@
 טלית,talet,H
 טעם,taam,H
 טעמים,teamim,H
+טענות,taanot,H
 טראב'אג'אב'אש,travaJavash,L
 טראב'אג'אר,travaJar,L
 טראב'אג'ו,travaJo,L
@@ -2675,6 +2784,7 @@
 טראב'ו,travo,L
 טראב'י,trave,L
 טראטאסטיס,tratastes,L
+טראטו,trato,L
 טראטוס,tratos,L
 טראטי,trate,L
 טראי,trae,L
@@ -2686,7 +2796,6 @@
 טראיר,traer,L
 טראליי,traye,L
 טראסקילאר,traskilar,L
-טרארלוס,traerlos,L
 טרומפיטאס,trompetas,L
 טרומפיטה,trompeta,L
 טרוקה,troka,L
@@ -2694,6 +2803,7 @@
 טרושו,trusho,L
 טרושי,trushe,L
 טרושיסטיש,trushistesh,L
+טרושיראן,trusheran,L
 טרושירון,trusheron,L
 טרושסטיס,trushistes,L
 טריארלו,triarlo,L
@@ -2709,7 +2819,7 @@
 טריפאס,tripas,L
 טריפה,tripa,L
 טרפון,Tarfon,H
-טרפיות,terfiyut,L
+טרפיות,terefiyut,H
 יאודה,Yeuda,H
 יאושע,Yeoshua,H
 יאיר,Yair,H
@@ -2745,6 +2855,7 @@
 ייב'אב'ה,yevava,L
 ייב'אן,yevan,L
 ייב'אנדו,yevando,L
+ייב'אסטיס,yevastes,L
 ייב'אר,yevar,L
 ייב'אראן,yevaran,L
 ייב'ארון,yevaron,L
@@ -2772,17 +2883,17 @@
 יעקב,Yaakov,H
 יצחק,Yitshak,H
 יצר,yetser,H
+יראי,yire,H
 ירדין,Yarden,H
 ירדן,Yarden,H
 ירושה,yerusha,H
 ירושלים,Yerushalayim,H
 ירושלם,Yerushalem,H
-ישיאלים,Yisraelim,L
 ישיבה,yeshiva,H
 ישעיה,Yeshaya,H
 ישעיהו,Yeshayau,H
 ישראל,Yisrael,H
-ישראלים,Yisrelin,H
+ישראלים,yisraelim,H
 יששכר,Yissahar,H
 יתברך,yitbarah,H
 יתרו,Yitro,H
@@ -2809,6 +2920,7 @@
 כפור,Kipur,H
 כפי,kefi,H
 כפרה,kapara,H
+כרת,karet,H
 כשרים,kesherim,H
 כתה,kita,H
 לא,lo,H
@@ -2871,6 +2983,7 @@
 ליב'ייאנו,livyana,L
 ליב'רו,livro,L
 ליב'רוס,livros,L
+ליב'רי,livre,L
 ליג'י,leche,L
 לידי,le_de,L
 ליזו,lizo,L
@@ -2882,6 +2995,7 @@
 לייאמאב'ה,yamava,L
 לייאמאן,yaman,L
 לייאמאר,yamar,L
+לייאמארון,yamaron,L
 לייאמה,yama,L
 לייאמו,yamo,L
 לייאמי,yame,L
@@ -2892,9 +3006,11 @@
 לייב'אב'אש,yevavash,L
 לייב'אב'ה,yevava,L
 לייב'אנדו,yevando,L
+לייב'אר,yevar,L
 לייב'ארב'וס,yevarvos,L
 לייב'ארון,yevaron,L
 לייב'ארלוס,yevarlos,L
+לייב'ארליס,yevarles,L
 לייב'ו,yevo,L
 לייגארה,yagara,L
 לייו,yo,L
@@ -3007,7 +3123,7 @@
 מאניראס,maneras,L
 מאנירה,manera,L
 מאנסיב'אס,mansevas,L
-מאנסיב'ו,mansevp,
+מאנסיב'ו,mansevo,
 מאנסיב'וס,mansevos,L
 מאנסיב'יס,manseves,L
 מאנפארא,manpara,L
@@ -3042,9 +3158,9 @@
 מדבר,midbar,H
 מדברות,midbarot,H
 מדה,mida,H
-מדות,midot,L
-מדיין,Midyan,L
-מדיינים,midyanim,L
+מדות,midot,H
+מדיין,Midyan,H
+מדיינים,midyanim,H
 מדין,Midyan,H
 מדינים,midyanim,H
 מדרגה,madrega,H
@@ -3113,6 +3229,7 @@
 מונדוס,mundos,L
 מונטאנייא,montanya,L
 מונטאנייאס,montanyas,L
+מונטון,monton,L
 מונטורו,monturo,L
 מונטי,monte,L
 מונטיס,montes,L
@@ -3146,6 +3263,7 @@
 מורירה,murira,L
 מורמוריאב'אן,murmureavan,L
 מורמוריאנדו,murmureando,L
+מותר,mutar,H
 מזבח,mizbeah,H
 מזוזה,mezuza,H
 מזל,mazal,H
@@ -3161,7 +3279,7 @@
 מיאולייו,meoyo,L
 מיאולייוס,meoyos,L
 מיאוס,mios,L
-מיאטאד,miatad,H
+מיאטאד,miatad,L
 מיאס,mias,L
 מיג'ור,miJor,L
 מיגו,migo,L
@@ -3184,14 +3302,17 @@
 מיטיאה,metia,L
 מיטיאן,metian,L
 מיטיאש,metiash,L
+מיטידוס,metidos,L
 מיטייו,metyo,L
 מיטיינדו,metyendo,L
 מיטיינדולה,metyendola,L
 מיטייראן,metyeran,L
+מיטיירה,metyera,L
 מיטיירון,metyeron,L
 מיטילדוס,meteldos,L
 מיטין,meten,L
 מיטיר,meter,L
+מיטירב'וס,metervosh,L
 מיטירה,metera,
 מיטירי,metere,L
 מיטיריש,meteresh,L
@@ -3207,7 +3328,7 @@
 מייל,myel,L
 מיימברו,myembro,L
 מיימברוס,myembros,L
-מיינטיס,myetes,L
+מיינטיס,myentes,L
 מיכאל,Mihael,H
 מיכה,Miha,H
 מיל,mil,L
@@ -3268,6 +3389,8 @@
 מירארה,mirara,L
 מירארון,miraron,L
 מירארלאס,mirarlas,L
+מירארלו,mirarlo,L
+מירארלוס,mirarlos,L
 מירה,mira,L
 מירו,miro,L
 מירי,mire,L
@@ -3307,7 +3430,7 @@
 מנורה,menora,H
 מנשה,Menashe,H
 מסעי,Mase,H
-מסרה,mesera,L
+מסרה,mesora,H
 מעלה,maala,H
 מעלות,maaolot,H
 מעמד,maamad,H
@@ -3324,14 +3447,15 @@
 מקארי,makare,L
 מקושש,mekoshesh,H
 מקטרג,mekatreg,H
-מקטרגים,mekatregin,L
+מקטרגים,mekatregim,H
 מרגלים,meragelim,H
 מרה,Mara,H
 מרים,Miryam,H
 משה,Moshe,H
+משוא,maso,H
 משכן,Mishkan,H
 משל,mashal,H
-משנה,mishne,L
+משנה,mishna,H
 משניות,mishnayot,H
 משפחה,mishpaha,H
 משפטים,mishpatim,H
@@ -3397,7 +3521,6 @@
 ניגרו,negro,L
 ניגרוס,negros,L
 נידו,nido,L
-ניי,,L
 נייב'י,nyeve,L
 נייטוס,nyetos,L
 ניירב'ו,nyervo,L
@@ -3412,6 +3535,7 @@
 נסים,nisim,H
 נפטר,niftar,H
 נשיא,nasi,H
+נשיאות,nesiut,H
 נתן,Natan,H
 סאב'ור,savor,L
 סאב'י,save,L
@@ -3482,7 +3606,7 @@
 סארלאן,sarlan,L
 סבות,sibot,H
 סברא,sevara,H
-סגולה,segula,L
+סגולה,segula,H
 סדר,seder,H
 סו,su,L
 סואינייו,suenyo,L
@@ -3497,6 +3621,8 @@
 סוב'יר,suvir,L
 סוב'רי,sovre,L
 סוב'רינו,sovrino,L
+סוג'יגואה,sojigua,L
+סוג'יגואין,sojoguen,L
 סוג'יפ'טוס,sodjiftos,L
 סודרו,sodro,
 סוכה,suka,H
@@ -3519,9 +3645,10 @@
 סומפורטארי,somportare,L
 סון,son,L
 סונבאייו,sonbayo,L
-סונבאיינדו,sobayendo,L
+סונבאיינדו,sonbayendo,L
 סונבאיירה,sonbayera,L
 סונטראירה,sontraera,L
+סונטרושי,sontrushe,L
 סונידו,sonido,L
 סונפורטאב'אמוס,sonportavamos,L
 סונפורטאב'ה,sonportava,L
@@ -3590,8 +3717,10 @@
 סילאר,selar,L
 סילה,se_la,L
 סילו,se_lo,L
+סילוזו,selozo,L
 סילי,se_le,L
 סילייא,siya,L
+סיליס,se_les,L
 סימאנה,semana,L
 סימבראדאס,sembradas,L
 סימבראדו,sembrado,L
@@ -3619,6 +3748,8 @@
 סיניידירוס,senyideros,L
 סינייור,senyor,L
 סינייורה,senyora,L
+סינייוריאו,senyorio,L
+סינייוריס,senyores,L
 סיניירב'וס,senyirvos,L
 סינקו,sinko,L
 סינקואינטה,sinkuenta,L
@@ -3741,11 +3872,13 @@
 פ'ואירסא,fuersa,L
 פ'ואירסאס,fuersas,L
 פ'ואירסה,fuersa,L
+פ'וייגאן,fuygan,L
 פ'וייגה,fuyga,L
 פ'ויינדו,fuyendo,L
 פ'וייר,fuyir,L
 פ'ולאנו,fulano,L
 פ'וליי,fuye,L
+פ'ולייא,foya,L
 פ'ולייו,fuyo,L
 פ'וליין,fuyen,L
 פ'ולייר,fuyir,L
@@ -3754,7 +3887,9 @@
 פ'וראסטירוס,forasteros,L
 פ'ורטאליזה,fortaleza,L
 פ'ורטונה,furtuna,T
+פ'ורסאנדו,forsando,L
 פ'ורסאסטיס,forsastes,L
+פ'ורסו,forso,L
 פ'ורסודה,forsuda,L
 פ'יאה,fea,L
 פ'יאלדאד,fealdad,L
@@ -3827,6 +3962,7 @@
 פאסימוס,pasemos,L
 פאסינסייא,pasensya,L
 פאסיס,fases,L
+פאפו,papu,L
 פאפוס,papos,L
 פאפסארון,pasaron,L
 פאר,par,L
@@ -3844,6 +3980,7 @@
 פארטיאה,partia,L
 פארטידא,partida,L
 פארטידה,partida,L
+פארטידו,partido,L
 פארטייו,partyo,L
 פארטיירון,partyeron,L
 פארטין,parten,L
@@ -3859,6 +3996,7 @@
 פארידיס,paredes,L
 פאריינטיס,paryentes,L
 פאריסי,parese,L
+פאריסייו,paresyo,L
 פאריסיירה,paresyera,L
 פאריסקה,pareska,L
 פאשאס,pashas,L
@@ -3870,10 +4008,12 @@
 פו'אירסה,fuersa,L
 פואיב'לו,puevlo,L
 פואידאן,puedan,L
+פואידאס,puedas,L
 פואידה,pueda,L
 פואידו,puedo,L
 פואידי,puede,L
 פואידיאה,pueida,L
+פואידיאן,pueden,L
 פואידימוס,puedemos,L
 פואידין,pueden,L
 פואידיס,podias,L
@@ -3921,6 +4061,7 @@
 פוזה,poza,L
 פוזו,pozo,L
 פוזי,poze,L
+פוזיירה,puzyera,L
 פוזימוס,puzimos,L
 פוזין,pozen,L
 פוטיפר,Potifar,H
@@ -3935,6 +4076,7 @@
 פונטוס,puntos,L
 פוני,pone,L
 פונייאדו,punyado,L
+פונירלוס,ponerlos,L
 פוס,pus,L
 פוסיב'לי,posivle,L
 פוסל,posel,H
@@ -3970,6 +4112,7 @@
 פידריטה,pedrita,L
 פידריירון,pedriyeron,L
 פידריר,pedrer,L
+פידרירלה,pedrerla,L
 פיזאב'ה,pizava,L
 פיזאן,pizan,L
 פיזגאדה,pezgada,L
@@ -4007,6 +4150,7 @@
 פינאנדו,penando,L
 פינאס,penas,L
 פינאר,penar,L
+פינג'וניס,pinchones,L
 פינה,pena,L
 פינו,pino,L
 פיני,peni,L
@@ -4033,6 +4177,7 @@
 פיקאדוריס,pekadores,L
 פיקאמוס,pekamos,L
 פיקאן,pekan,L
+פיקאנדו,pekando,L
 פיקאסטיש,pekastesh,L
 פיקאר,pekar,L
 פיקאראמוס,pekaramos,L
@@ -4059,6 +4204,7 @@
 פיריזוזה,perezoza,L
 פיריזוזו,perezozo,L
 פירסיגיינדו,persigyendo,L
+פירסיגין,persigen,L
 פירקוראר,perkurar,L
 פירקורה,perkura,L
 פירקורו,perkuro,L
@@ -4119,6 +4265,8 @@
 פריגונירו,pregonero,
 פריה,periya,H
 פריזינטי,prezente,L
+פריזינטיס,prezentes,L
+פריטו,preto,L
 פרימירה,primera,L
 פרימירו,primero,L
 פרימירוס,primeros,L
@@ -4200,6 +4348,7 @@
 קאלייאדה,kayada,L
 קאלייאדוס,kayados,L
 קאלייו,kayo,L
+קאליינדו,kayendo,L
 קאליירה,kayera,L
 קאליירון,kayeron,L
 קאמה,kama,L
@@ -4211,6 +4360,7 @@
 קאמינאסטיש,kaminastesh,L
 קאמינאר,kaminar,L
 קאמינארון,kaminaron,L
+קאמינארי,kaminare,L
 קאמינארלוס,kaminarlos,L
 קאמינאש,kaminash,L
 קאמינה,kamina,L
@@ -4243,6 +4393,7 @@
 קאסטיגאסטיס,kastigastes,L
 קאסטיגאר,kastigar,L
 קאסטיגאראס,kastigaras,L
+קאסטיגארב'וס,kastigarvos,L
 קאסטיגארה,kastigara,L
 קאסטיגארלו,kastigarlo,L
 קאסטיגארלוס,kastigarlos,L
@@ -4260,6 +4411,7 @@
 קאפיטולו,kapitulo,L
 קאראס,karas,L
 קאראר,karar,T
+קארב'ון,karvon,L
 קארגאב'ה,kargava,L
 קארגאנדו,kargando,L
 קארגאס,kargas,L
@@ -4268,6 +4420,7 @@
 קארה,kara,L
 קארו,karro,L
 קארוס,karros,L
+קארישטיריארמוס,karishtirearmos,T
 קארני,karne,L
 קארניס,karnes,L
 קארנירו,karnero,L
@@ -4296,6 +4449,7 @@
 קוארטינה,kuartena,L
 קוארטינו,kuarteno,L
 קוארינטה,kuarenta,L
+קוב'דיסייא,kovdiya,L
 קוב'דיסייאן,kovdisyan,L
 קוב'דיסייו,kovdisyo,L
 קוב'יג'אדוס,kuviJados,L
@@ -4312,7 +4466,9 @@
 קוזיקה,kozika,L
 קוזירלה,kuzirla,L
 קוזירלו,kozerlo,L
+קולאיי,kolay,T
 קולגו,kolgo,L
+קולה,kola,L
 קולור,kolor,L
 קולוראדו,kolorado,L
 קוליב'רו,kulevro,L
@@ -4325,6 +4481,7 @@
 קולפו,kulpo,
 קומאמוס,komamos,L
 קומאן,koman,L
+קומאנדאן,komandan,L
 קומאנדאר,komandar,L
 קומאנדו,komando,L
 קומאנדוס,komandos,L
@@ -4347,6 +4504,7 @@
 קומיס,komes,L
 קומיר,komer,L
 קומירלו,komerlo,L
+קומירסי,komerse,L
 קומירסילו,komerselo,L
 קומפלי,kumple,L
 קומפלידאס,kumplidas,L
@@ -4367,9 +4525,11 @@
 קונוסידוס,konosidos,L
 קונוסייו,konosyo,L
 קונוסייראמוס,konosyaramos,L
+קונוסימיינטו,konosimyento,L
 קונוסין,konosen,L
 קונוסיר,konoser,L
 קונוסיראן,konoseran,L
+קונוסירלו,konoserlo,L
 קונוסירלוס,konoserlos,L
 קונוסקאש,konoskash,L
 קונורטו,konorto,L
@@ -4390,6 +4550,8 @@
 קונטימוס,kontimos,L
 קונטינטאב'ה,kontentava,L
 קונטינטאסטיס,kontentastes,L
+קונטינטארלו,kontentarlo,L
+קונטינטה,kontenta,L
 קונטינטו,kontento,L
 קונטינטי,kontente,L
 קונטראנפיזי,kontrapeze,L
@@ -4400,7 +4562,7 @@
 קונילייאס,kon_eyas,L
 קונילייוס,kon_eyos,L
 קונלאס,kon_las,L
-קונלה,kon_La,L
+קונלה,kon_la,L
 קונלוס,kon_los,L
 קונסו,kon_su,L
 קונסוס,kon_sus,L
@@ -4408,12 +4570,14 @@
 קונסיז'ו,konsejo,L
 קונסיז'וס,konsejos,L
 קונפ'רונטאנטי,konfrontante,L
+קונפאניירו,konpanyero,L
+קונפאניירוס,kompanyeros,L
 קונקי,kon_ke,L
 קונקלואידאס,konkluidas,L
 קונקריאה,konkria,L
 קונקריארון,konkriaron,L
 קופייא,kopya,L
-קופיירה,kopiyar,L
+קופיירה,kopiyara,L
 קוראסון,korason,L
 קוראסוניס,korasones,L
 קורה,korra,L
@@ -4467,6 +4631,7 @@
 קיז'יסטיש,kijistesh,L
 קיז'ירון,kijeron,L
 קיז'ירי,kijere,L
+קיז'יריש,kijeresh,L
 קיזו,kezo,L
 קיטאב'אן,kitavan,L
 קיטאב'אס,kitavas,L
@@ -4486,7 +4651,7 @@
 קיטארליס,kitarles,L
 קיטה,kita,L
 קיטו,kito,L
-קיטי,kite,L
+קיטי,ke_te,L
 קיטימוס,kitimos,L
 קיטין,kiten,L
 קיטיס,kites,L
@@ -4509,6 +4674,7 @@
 קימי,ke_me,L
 קין,ken,L
 קינו,ke_no,L
+קינוסידוס,konosidos,L
 קינוסייראמוס,konosyeramos,L
 קינזי,kinze,L
 קינטינה,kintena,L
@@ -4518,6 +4684,7 @@
 קיסון,ke_son,L
 קיסי,ke_se,L
 קיר,ker,L
+קיראן,keran,L
 קירה,kera,L
 קירו,kero,L
 קירי,kere,L
@@ -4542,6 +4709,7 @@
 קישאראן,kesharan,L
 קישארון,kesharon,L
 קישו,kesho,
+קישוזוס,keshozos,L
 קלאב'ו,klavo,L
 קלאראס,klaras,L
 קלארו,klaro,L
@@ -4554,7 +4722,7 @@
 קרח,Korah,H
 קריאב'ה,kriava,L
 קריאדור,Kriador,L
-קריאו,kreo,L
+קריאו,krio,L
 קריאטוראס,kriaturas,L
 קריאטוריקאס,kriaturikas,L
 קריאי,krii,L
@@ -4580,6 +4748,9 @@
 ר',r',H
 ראב'ייא,ravya,L
 ראב'ייוזו,ravyozo,L
+ראובן,Reuven,H
+ראויים,reuyim,H
+ראזגארון,razagron,L
 ראזגו,razgo,L
 ראזון,razon,L
 ראזונאמיינטו,razonamyento,L
@@ -4672,11 +4843,13 @@
 ריז'יר,rijir,L
 ריז'יראן,rijiran,L
 ריז'ירב'וס,rijirvos,L
+ריז'ירה,rijira,L
 ריז'ירלאס,rijirlas,L
 ריז'ירלוס,rijirlos,L
+ריז'ירסין,rijirsen,L
 ריזייו,rezyo,L
 ריזייורה,rezyura,L
-ריטורנאב'ה,retornnava,
+ריטורנאב'ה,retornava,L
 ריטורנארון,retornaron,L
 ריטימבלאר,retemblar,L
 ריי,rey,L
@@ -4692,6 +4865,7 @@
 ריסטאנטי,restante,L
 ריסטארון,restaron,L
 ריסטו,resto,L
+ריסיב'אש,resivash,L
 ריסיב'ה,resiva,L
 ריסיב'י,resive,L
 ריסיב'יאן,resivian,L
@@ -4705,6 +4879,7 @@
 ריסיב'יירון,resivyeron,L
 ריסיב'ימוס,resivimos,L
 ריסיב'ין,resiven,L
+ריסיב'יס,resives,L
 ריסיב'יסטיש,resivistesh,L
 ריסיב'יר,resivir,L
 ריסיב'ירלו,resivirlo,L
@@ -4717,6 +4892,7 @@
 ריספונדי,responde,L
 ריספונדיאה,respondia,L
 ריספונדיאן,respondian,L
+ריספונדיאש,respondiash,L
 ריספונדייו,respondyo,L
 ריספונדיינדו,respondyendo,L
 ריספונדייראן,respondyeran,L
@@ -4725,6 +4901,7 @@
 ריספונדימי,respondeme,L
 ריספונדין,responden,L
 ריספונדיסטיס,respondistes,L
+ריספונדיסטיש,respondistesh,L
 ריספונדיר,responder,L
 ריספונדירלי,responderle,L
 ריספונדירמי,responderme,L
@@ -4751,6 +4928,7 @@
 רעים,raim,H
 רפאים,refaim,H
 רצון,ratson,H
+רצועה,retsua,L
 רצועות,retsuot,H
 רשע,rasha,H
 רשעים,reshaim,H
@@ -4761,7 +4939,9 @@
 שבת,Shabat,H
 שדיאור,Shedeur,H
 שוות,shavot,H
+שוחד,shohad,H
 שוחט,shohet,H
+שונאי,sone,H
 שופטים,Shofetim,H
 שופר,shofar,H
 שטן,Satan,H
@@ -4796,11 +4976,12 @@
 תוכחות,tohahot,H
 תולדות,Toledot,H
 תורה,Tora,H
-תחבולות,tahbulot,L
+תחבולות,tahbulot,H
 תחום,tehum,H
 תחת,tahat,H
 תלמיד,talmid,H
 תלמידי,talmide,H
+תלמידים,talmidim,H
 תמיד,tamid,H
 תמנע,Timna,H
 תנאי,tenay,H
@@ -4814,3 +4995,12 @@
 תרומה,Teruma,H
 תרפון,Tarfon,H
 תשובה,teshuva,H
+אקומפליר ,a_kumplir,L
+אלקילאדו ,alkilado,L
+טראב'אז'אראן ,travajaran,L
+אולב'ידה ,olvida,L
+כתות,kitot,H
+איג'ארסין,echarsen,L
+ויחי ,Vayehi,H
+דארסי ,darse,L
+ZZZZ[073],,
