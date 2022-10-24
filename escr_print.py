@@ -21,6 +21,9 @@ def single_column(textblock, pageNum, col):
 
 def single_page(fname):
     # Get the page number
+    if "METS.xml" in fname:
+        return
+
     pageNum = int(re.findall('\_(.*).xml', fname)[-1])
 
     xmldoc = minidom.parse(fname)
