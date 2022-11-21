@@ -45,6 +45,8 @@ def single_column(textblock):
     #################################################
     # Take only full lines
     #################################################
+    if (len(lx)<= 4):
+        return
     lmed_y = statistics.median(ly)
     rmed_y = statistics.median(ry)
 
@@ -61,6 +63,8 @@ def single_column(textblock):
     #################################################
     # Calculate left line and right line formulas 
     #################################################
+    if (len(nlx)< 4):
+        return
     xnp = np.array(nlx)
     ynp = np.array(nly)
     la, lb = np.polyfit(xnp, ynp, 1)
@@ -208,6 +212,10 @@ def single_column(textblock):
         tline.attributes['BASELINE'].value = newval[:-1]
 
 def single_page(fname):
+
+    if "METS.xml" in fname:
+        return
+
     # Get the page number
     pageNum = int(re.findall('\_(.*).xml', fname)[-1])
 
@@ -217,8 +225,8 @@ def single_page(fname):
 
     for textblock in alto.getElementsByTagName("TextBlock"):
         try:
-            tb_width = int(textblock.attributes['WIDTH'].value)
-            tb_height = int(textblock.attributes['HEIGHT'].value)
+            tb_width = float(textblock.attributes['WIDTH'].value)
+            tb_height = float(textblock.attributes['HEIGHT'].value)
         except (KeyError):
             tb_width = 0
             tb_height = 0
@@ -227,6 +235,7 @@ def single_page(fname):
             parent = textblock.parentNode
             parent.removeChild(textblock)
             continue
+
         single_column(textblock)
 
 
