@@ -20,10 +20,11 @@ def single_column(textblock, pageNum, col):
             fout.write(f"{text}\n")
 
 def single_page(fname):
-    # Get the page number
+
     if "METS.xml" in fname:
         return
-
+        
+    # Get the page number
     pageNum = int(re.findall('\_(.*).xml', fname)[-1])
 
     xmldoc = minidom.parse(fname)
